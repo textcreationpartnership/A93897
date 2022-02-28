@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The good vvomens cryes against the excise of all their commodities. Shewing, as the businesse now stands, they are in no case able to bear such heavy pressures, and insupportable burthens, occasioned by the iuncto's new impost on their wares, whereby they are like to fall into great want of trading, and putting off their commodities at the prizes formerly, to the utter undoing of their deare husbands and families for ever. Therefore having a fellow-feeling of one anothers lamentable and languishing cases, (notwithstanding any act to the contrary) have put forwards themselves to seeke redresse of their aggrievances, and inabilities of their over-burthened husbands insufficiencies, and unsatisfying performances in their severall occupations; have convened together in a feminine convention in Doe-little-lane, and tendred their aggrievances and complaints to the consideration of the Common-wealth; desiring speedy redresse therein. / Written by Mary Stiff, Chair-woman, in vineger verse.</title>
+            <author>Stiff, Mary.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93897</idno>
+            <idno type="STC">Wing S5551</idno>
+            <idno type="STC">Thomason E589_1</idno>
+            <idno type="STC">ESTC R203595</idno>
+            <idno type="EEBO-CITATION">99863504</idno>
+            <idno type="PROQUEST">99863504</idno>
+            <idno type="VID">165502</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93897)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165502)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 90:E589[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The good vvomens cryes against the excise of all their commodities. Shewing, as the businesse now stands, they are in no case able to bear such heavy pressures, and insupportable burthens, occasioned by the iuncto's new impost on their wares, whereby they are like to fall into great want of trading, and putting off their commodities at the prizes formerly, to the utter undoing of their deare husbands and families for ever. Therefore having a fellow-feeling of one anothers lamentable and languishing cases, (notwithstanding any act to the contrary) have put forwards themselves to seeke redresse of their aggrievances, and inabilities of their over-burthened husbands insufficiencies, and unsatisfying performances in their severall occupations; have convened together in a feminine convention in Doe-little-lane, and tendred their aggrievances and complaints to the consideration of the Common-wealth; desiring speedy redresse therein. / Written by Mary Stiff, Chair-woman, in vineger verse.</title>
+                  <author>Stiff, Mary.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at the signe of the Hornes in Queen-street, neere my Lord Fairfax's house, and are to be sold at the Dildoe in Distaffe-Lane,</publisher>
+                  <pubPlace>Westminster :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Mary Stiff is a pseudonym.</note>
+                  <note>In verse set as prose.</note>
+                  <note>Annotation on Thomason copy: "Jan. 4 1649"; the 50 in the imprint has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Women --  England --  London --  Social conditions --  Early works to 1800.</term>
+               <term>Great Britain --  Social conditions --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  Social life and customs --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165502:1" rendition="simple:additions"/>
+            <p>The good VVomens CRYES againſt the EXCISE Of all their Commodities.</p>
+            <p>SHEWING, As the <hi>buſineſſe</hi> now <hi>ſtands,</hi> they are in no <hi>Caſe</hi> able to bear ſuch heavy <hi>Preſſures,</hi> and inſupportable <hi>Burthens,</hi> occaſioned by the <hi>Iuncto's</hi> new <hi>Impoſt</hi> on their <hi>Wares,</hi> whereby they are like to <hi>fall</hi> into great want of <hi>Trading.</hi> and putting off their <hi>Commodities</hi> at the <hi>prizes</hi> formerly, to the utter undo<g ref="char:EOLhyphen"/>ing of their deare Husbands and Families for ever.</p>
+            <p>Therefore having a <hi>Fellow-feeling</hi> of one anothers lamentable and languiſhing <hi>Caſes,</hi> (notwithſtanding any <hi>Act</hi> to the con<g ref="char:EOLhyphen"/>trary) have <hi>put forwards</hi> themſelves to ſeeke redreſſe of their aggrievances, and inabilities of their over-burthened Hus<g ref="char:EOLhyphen"/>bands <hi>inſufficiencies,</hi> and <hi>unſatisfying performances</hi> in their ſeverall <hi>Occupations;</hi> have convened together in a Feminine Convention in <hi>Doe-little</hi>-lane, and tendred their aggrievances and complaints to the conſideration of the Common-wealth; deſiring ſpeedy redreſſe therein.</p>
+            <p>Written by MARY STIFF, Chair-woman, in Vineger Verſe.</p>
+            <p>
+               <hi>WESTMINSTER:</hi> Printed at the Signe of the <hi>Hornes</hi> in <hi>Queen-street,</hi> neere my Lord <hi>Fairfax's</hi> Houſe, and are to be ſold at the <hi>Dildoe</hi> in <hi>Distaffe</hi>-Lane. 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165502:2"/>
+            <pb n="1" facs="tcp:165502:2"/>
+            <head>The good VVomens CRYES againſt the Exciſe, on all their Commodities.</head>
+            <epigraph>
+               <q>
+                  <l>Good People all that heare our Cryes,</l>
+                  <l>Pitty poore Womens Miſeries.</l>
+               </q>
+            </epigraph>
+            <p>WE cannot now ſet on the Pot, with a Sheeps-head dye of the rot, Oynon nor Oatemell uſe God-wot; <hi>(pox take them:)</hi> When that we goe to <hi>ſalt</hi> our meat, or to make Pyes to bake and eat, this damn'd <hi>Exciſe</hi> lies in the heat <hi>that bakes them:</hi> We cannot waſh our Smocks or Shirts, when we have gilded them by ſquirts, but ſtraight in an Exciſe-man blurts, <hi>and ſmells too't.</hi> Exciſe for <hi>Soape</hi> the Knave re<g ref="char:EOLhyphen"/>quires, Exciſe for Log-wood us'd by Dyers, to maintain Rogues, Knaves, Flooles, and Lyars, <hi>pray looke too't.</hi> Tobacco two ſhillings the pound, the Devill ſure will them confound, good people pray come <hi>curſe</hi> them round, <hi>and ſpare not.</hi> Exciſe on Ale, Exciſe on Salt, Exciſe on Cloath, Exciſe on Malt; Exciſe on what ſo ere you call't, <hi>and feare not.</hi> All Linnen fine or courſe muſt pay, Ex<g ref="char:EOLhyphen"/>ciſe, or elſe they'l tak't away, Lord who ere thought to ſee this day, <hi>in England?</hi> for Feather-beds, for Chairs, for Stooles; for Childrens Babyes, Caps <hi>for Pooles,</hi> and for all handy-crafts-mens tools, <hi>theſe Knaves ſtand:</hi> Exciſe for Paper I muſt pay, or elſe my <hi>Muſe</hi> muſt pine away; they care not what I write or ſay, <hi>in an<g ref="char:EOLhyphen"/>ger.</hi> Exciſe they have-for Pots and Pans, for Pigins, Noggins, and for Cans, yet <hi>Harry Martins</hi> ware free ſtands, <hi>to bang her</hi> Exciſe ſtrong as <hi>Aquvaita</hi> the <hi>Juncto</hi> hath to make them mighty; and when they'r warm'd, O then they'l fight ye, <hi>with ten Whores;</hi>
+               <pb n="2" facs="tcp:165502:3"/>Exciſe on Sugar browne and white, Exciſe on Candles that wee light, but when King <hi>Charles</hi> comes, then wee'l fight, <hi>and quit ſcores.</hi> Exciſe on <hi>Spirits</hi> they doe lay, but from ſuch <hi>Spirits</hi> Lord we pray, deliver us and chaſe away, <hi>theſe vermin;</hi> they doe Ex<g ref="char:EOLhyphen"/>ciſe Wine by the Tun, and all the Liquors that doe run, a Halter catch them, or a Gun, <hi>that harme men:</hi> Sweet Sugar-Candy can<g ref="char:EOLhyphen"/>not ſcape, no more then can the juice of Grape; Ferriting, Shoo<g ref="char:EOLhyphen"/>ſtrings, Laces, Tape, <hi>they get by:</hi> Hatbands, Ribands, Gloves, and Hats; and for our Beds the very Mats, Tinder-Boxes and Rat-Traps, <hi>they live by.</hi> Exciſe for Pepper, Currans, Figs; for Capons, Rabbits, and for Pigs, for Childrens Tops and Whirlygigs, <hi>pox rate them.</hi> For Earthen Ware and Skins of Leather, a Halter tye them faſt together, that they may hang in wind and weather, <hi>to ſtate them:</hi> Exciſe on Cheeſe and Butter too, the more for to augment our <hi>woe,</hi> good God what will theſe Rebells doe? <hi>to begger's.</hi> Exciſe on Glaſſes brittle Ware; Exciſe on all ſave of our <hi>care,</hi> we muſt lie hard, and hardly fare, <hi>guds doggers:</hi> Exciſe on Pewter, Tin, Lead, Braſſe; to furniſh out each ignorance Aſſe; and Aſſeſſments for Sir <hi>Thomas, and Cromwell:</hi> thus doe they rack, thus doe they rave; the more we give, the more they crave; elſe plundered by each Rogue and Knave, <hi>and Rake-hell.</hi> The Bi<g ref="char:EOLhyphen"/>ſhops Lands and all their ſtore, they've lately ſold, and yet are poore, and like the Horſe-Leach cry more, more, <hi>and threaton.</hi> But if all things hit but aright, and <hi>Charles</hi> the ſecond comes to fight; the Rebells will be hang'd downe-right, <hi>or beaten: Tom Ladle</hi> then will rue his folly, and <hi>Bradſhaw Jack</hi> be melancholly, the Loyalliſts be briske and jolly, <hi>to heare i;</hi> Though theſe have murthered the King, they muſt not thinke to ſcape the ſtring; a joyfull ſight to ſee them ſwing, <hi>ne're feare it.</hi> The roguerie that theſe Knaves have hatch'd, in all the world cannot be match d, but in their ſnare they will be catch'd, <hi>in halters:</hi> Wee'l Bonfires light with <hi>Cromwells</hi> Noſe, and <hi>Tyburne</hi> deck with <hi>Charles</hi> his foes, and <hi>Gregory</hi> ſhall have all their Clothes, <hi>when't aliers.</hi> Then will the Siſters ſnot and ſnivell, and all the Saints make pittious drevil; when <hi>Cromwel</hi> marches to the devil <hi>in earneſt. Corbet</hi> will cloſe Mourner bee, and <hi>Mildmay</hi> ſwing in a <hi>whimſie;</hi> Hie then quoth <hi>Leuthall,</hi> up goe we, <hi>intrue jeast.</hi> Such Hypocrits can ne<g ref="char:EOLhyphen"/>ver ſcape, that murther, ſteale, and commit Rape; for them the mouth of hel doth gape, <hi>wide ope;</hi> were ever people deceiv'd thus?
+<pb n="3" facs="tcp:165502:3"/>was ever King ſo glorious? or Religion reform'd thus? <hi>by Poper</hi> Gun powder Traytors did but intend, to bring their King to ſuch an end; but that the Devill was not their friend, <hi>betray'd them</hi> but theſe have in an open Hall, with impudence gone beyond all; nor did thoſe blondy Traytors fall, <hi>diſmay them.</hi> They butch<g ref="char:EOLhyphen"/>er'd <hi>Charles</hi> at his owne gate, they tooke his Jewells, Money, Plate; and call themſelves a <hi>Free State, by plunder:</hi> They ſold his Haire, his Blood, and Crowne; they keep the Prince too from his own, were ever ſuch damn'd Traytors knowne, <hi>O wonder!</hi> They ſold his Houſhold-ſtuffe &amp; Goods, his Mannors, Forreſts, Chaſes, Woods; yet ſeek to ſhed his Childrens bloods, <hi>like Devills:</hi> They damn'd their ſouls by <hi>treacherie;</hi> ſacriledge, and perjurie; of co<g ref="char:EOLhyphen"/>vetouſneſſe no end we ſee, <hi>of evills.</hi> Our Husbands they no work can get, our Children ſtarve for want of meat, and all we earne muſt make Knaves great, <hi>in bravery;</hi> whilſt <hi>Cromwells</hi> Trull ſits like a Queen; in Cloath of Silver, Sattin green, eats all the dain<g ref="char:EOLhyphen"/>ties can be ſeen, <hi>by ſlavery:</hi> Then doth her <hi>Stallion</hi> feed his fill, and of his <hi>Last</hi> then has his will; <hi>Morley</hi> muſt make, and <hi>Noll</hi> muſt kill, <hi>'tis pretty:</hi> each ſtinking <hi>Puſſe,</hi> that t'other day, ſerved the Hogs, and went to hay, now's clad in the Queens rich aray, <hi>'th'City</hi> Whilſt <hi>Fairfax</hi> with's bable-Noſe, weares the Kings rich Gloves and Cloaths, and of his Hangings doth diſpoſe, <hi>God ſave us:</hi> his <hi>Fro</hi> that came from <hi>Rotterdam</hi> and makes the ſim<g ref="char:EOLhyphen"/>pleton a R — as proud as is the Devills Damme, <hi>out-brave us:</hi> whilſt Miſtris <hi>Pride,</hi> that ſtinks of graines, muſt have two maids beare up her traines, although her legges be full of Blaines, <hi>and itchie.</hi> Theſe be the Nobles of our Land, greateſt in power and command; for which you worke, you fight, you ſtand, <hi>they'l fit ye.</hi> When <hi>Bradſkaw's</hi> Doxie doth lie in, ſhe has the Queens Child<g ref="char:EOLhyphen"/>bed linnen, as if the Brat to <hi>Charles</hi> were Kin, <hi>ber Baſtard:</hi> That great Lollpoop's no ſooner up, but has his Caudle in the Kings Cup; and like his blood, doth ſwallow't up, <hi>baſe daſtard:</hi> Then doth he unto <hi>White-hall</hi> hie, with brace of Pages hanging by, to invent more tyranny <hi>and treaſon:</hi> but if good women, you'l be rul'd, wee'l be by him no longer fool'd, and that his courage ſhould be cool'd, <hi>is reaſon. Ione Barnet</hi> then upright did <hi>ſtand,</hi> and ſilence with her voice command, would take the buſineſſe in <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and, <hi>to pox him:</hi> to <hi>Weſtminster</hi> ſtraight ſhe hies, under the Cloiſter where he lies, and all her cunning there ſhe tries, <hi>to croſſe
+<pb n="4" facs="tcp:165502:4"/>him</hi> pretending great buſines ſhe had; of which he ſaid he ſhould be glad, but in the end it proved ſo <hi>to Bradſhaw</hi> into a roome he tooke her then, and ſoone commanded out his men; and ſtoutly they fell to it then, <hi>without Law. Ione Burne<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> then came back a pace, when <hi>Iack</hi> had quibl'd her Law-Caſe, &amp; ſhriv'd <hi>Ione</hi> like a-Babe of Grace, <hi>and after,</hi> to the Committee <hi>Ione</hi> back did come, and told them the great worke was done; they gave her thanks, and home ſhe run, <hi>in laughter.</hi> The Women then did chuſe a Cryer; and ſo adjourn'd unto the fire, and did <hi>Iones</hi> witty trick admire, <hi>with wonder;</hi> this was the buſineſſe of that day, they all adjourn'd and went their way; and met again the next <hi>Thurſday, like thunder.</hi> The firſt thing that they took in hand, was the abu<g ref="char:EOLhyphen"/>ſes of the Land, and how in baſte they might disband, <hi>the Army;</hi> Then up ſtood <hi>Dell,</hi> and <hi>Sis,</hi> and <hi>Sue;</hi> and ſaid, that Women the Lurdanes ſlew, that rob'd good people of their due; <hi>and harm yee</hi> Quoth <hi>Iudeth</hi> then, one of my name kill'd <hi>H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fernes</hi> of great fame; and <hi>Iael</hi> did doe the ſame <hi>to Siſera:</hi> did not <hi>Ester</hi> the <hi>Iews</hi> preſerve; when <hi>Haman</hi> did from Juſtice ſwerve? more lies upon us when we ſtarve, <hi>O Merdecay.</hi> Hang <hi>Haman</hi> up agen I cry, that hath ſentenc'd us <hi>Iews</hi> to dye, revenge is fit for tyranny, <hi>a Gal<g ref="char:EOLhyphen"/>lowes. Iack Bradſhaw</hi> ſhall the ſame fate feele, and ſo ſhall <hi>Cooke, Wild, Iermin, Steele,</hi> all drunk into perdition reele, <hi>what follows?</hi> I dare not them with Hell affright, the Worm of Conſcience ſo doth bite, they cannot reſt by day nor night <hi>in quiet:</hi> and when that they doe goe to eat, they ſtill feare poyſon in their meat, their jealouſie is wonderous great <hi>in diet.</hi> When they doe think to reſt in bed, ſome <hi>bloody viſion</hi> frights their head, of righteous <hi>Charles</hi> they murthered <hi>at White-hall;</hi> but if we doe not end the ſtrife, which muſt be with their curſed life; of Children, Father, Sonne and Wife, <hi>be hang'd all.</hi> The Independent race we know, hold Tenents rending to our woe, and <hi>Englands</hi> fatall over<g ref="char:EOLhyphen"/>throw, <hi>do ſtudy:</hi> but if we cannot underſtand, how they have late o recome the Land, and now have all at their command, <hi>w'are muddy.</hi> No Law but th'Sword they will rule by, their boundleſſe wills &amp; tyranny; good women all their Acts defie, <hi>and curſe them:</hi> their Father <hi>Lucifer</hi> and <hi>Pride,</hi> with <hi>Cromwell</hi> that damn'd Regicide, and the Citie hath them ſupply'd, <hi>and nurſt them.</hi> The Common Cuckolds of <hi>Guild-hall,</hi> with <hi>Atkins,</hi> ſob, <hi>Tychburn,</hi> and all, that <hi>Canaans</hi> Grapes hath turn'd to
+<pb n="5" facs="tcp:165502:4"/>Gall, <hi>and VVorm wood; Caryl, Carter, Gouge,</hi> and <hi>Nye,</hi> that can ſweare, forſweare, fawn, and lye, to every wind their ſayles they'l try, <hi>were nere good:</hi> Then in come <hi>Meg</hi> and loyall <hi>Doll,</hi> and bid a pox of God take <hi>Noll,</hi> and all the Rebells in <hi>VVhite-hall, con<g ref="char:EOLhyphen"/>founded;</hi> quoth <hi>Meg</hi> the Devill take them all; quoth <hi>Doll</hi> I hope to ſee them fall, or elſe be hang'd before <hi>VVhite-hall, each Roundhead.</hi> Quoth <hi>Sis,</hi> a plague take <hi>Bradſhaw Iack,</hi> quoth <hi>Sue,</hi> the devill take the pack; Heaven grant they ne're may hanging lack, <hi>nor curſes:</hi> and when they'r at the point to die; Heaven nor Phyſitian hear their cry, all Miniſters comfort them deny, <hi>and Nurſes.</hi> Quoth <hi>Moll,</hi> ſome plague give them their hire, that they may dye like <hi>Pym</hi> their Squire, like <hi>Dortſlaw,</hi> or like <hi>Mac<g ref="char:EOLhyphen"/>quire, be hanged:</hi> quoth <hi>Beſſe,</hi> a while Ide have them ſtay, till Deſtruction makes them way; and when the King ſhall win the day, <hi>be banged,</hi> Quoth <hi>Kate,</hi> my wiſhes they ſhall have, each perjured Rebell, Foole, and Knave, may hang in Chaines and want a grave, <hi>to bury:</hi> quoth <hi>Ruth,</hi> profeſſe I doe not think, but that the Knaves begin to ſtink; being even now at Deſtructions brink, <hi>to ferry.</hi> Quoth <hi>Prue, Charon</hi> will ſurely take then in, and <hi>Furyes</hi> whip them for their ſin; not ſparing <hi>VVeaver,</hi> not <hi>Evelyn, nor Grimſton:</hi> quoth <hi>Deb,</hi> may <hi>Fairfax, Pride,</hi> and <hi>Rich, Hewſon,</hi> and <hi>Ioyce,</hi> that lowſie <hi>ſtitch,</hi> have fire and ſcorpions at at their breech, <hi>and Brimston;</hi> quoth <hi>Peg,</hi> good Siſters I could curſe, but 'twill but make them worſe and worſe, like <hi>Foxes</hi> they thrive better thus, <hi>in Treaſon:</hi> give them but Rope, they'l hang themſelves, and wrack their hopes on Rocks and Shelves, and thats the end of all ſuch Elves <hi>in Reaſon.</hi> Lets all ſet forward's and redreſſe our <hi>grievances,</hi> quoth <hi>Madge</hi> and <hi>Beſſe,</hi> and ſnatch theſe Sonnes of Wickedneſſe, <hi>in ſunder:</hi> content (quoth Meg) my Diſtaffe ſhall upon their pates ſo heavy fall, that Ile goe neere to beat them all, <hi>with wonder,</hi> Lets chuſe a <hi>Generall</hi> (quoth <hi>Kate</hi>) and we their <hi>Pride</hi> will ſoone abate; it is not done with <hi>talke</hi> and <hi>prate; but action:</hi> they then proceeded to a <hi>Choice,</hi> and every Woman had her <hi>Voice,</hi> and ſo they choſe them luſty <hi>Joyce, call'd Blackston.</hi> A <hi>Virago</hi> ſtrong and ſtout that had bin try'd full many a <hi>bout,</hi> and ne're would <hi>turne tayle,</hi> nor give out, <hi>but forward:</hi> ſhee'd made an Aſſe of many a man, that none be<g ref="char:EOLhyphen"/>fore her long could <hi>ſtan:</hi> when ſhe but <hi>drew,</hi> away they ran <hi>a full yard.</hi> They all agreed to raiſe new force, Side-ſaddles, Piſtols, wo<g ref="char:EOLhyphen"/>men,
+<pb n="6" facs="tcp:165502:5"/>Horſe, with Spits, and Fire-forks, to take courſe, <hi>with the Army.</hi> This news came quickly to <hi>VVhite-hall,</hi> and did ſo fright the Rebells all, that they to Counſell ſtraight did fall, <hi>to harme ye:</hi> one ſaid 'twas fit that women ſhould, take the Engagement, if they would, or elſe they ſhould by them be fool'd, <hi>and floured.</hi> Their <hi>Members</hi> too, that were but <hi>weake,</hi> would be diſabled to ſpeake, and then their Trade muſt ſurely breake, <hi>when <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ted.</hi> Let <hi>Bradſhaw</hi> be made High-Conſtable, and <hi>Denby</hi> Preſident of State-Table, and then, come women we are able, <hi>to stand too't:</hi> quoth <hi>Denby,</hi> I accept the place, 'cauſe the black patches in my face, will make the women run apace, <hi>and ne're doo't<g ref="char:punc">▪</g>
+               </hi> Quoth <hi>Harry Meld<g ref="char:EOLhyphen"/>may</hi> it is fit, that ſtraight we doe new forces get, one beat me in the Gravill-pit, <hi>and craz'd me:</hi> quoth <hi>Martin,</hi> I will never turn, al<g ref="char:EOLhyphen"/>though they did my weapon burne, and once in fight my heart did earne, <hi>they maz'd me.</hi> But let them come, Ile fight againe, and ſo I hope will <hi>Harry Veine,</hi> it is not fit ſuch queans ſhould reigne, <hi>and vapour:</hi> and though my Body be not ſound, I ſtill have force to keep my ground, &amp; with half weapon can them wound, <hi>then caper.</hi> Quoth <hi>Weaver,</hi> pray be not diſmayd, I fear we are all on's betrayd, the plot's diſcovered by my Maids <hi>great belly:</hi> Alack quoth <hi>Bradſhaw,</hi> as you are men, lets make an Act to baniſh them, ten miles from <hi>London,</hi> ſurely then, <hi>Ile tell ye:</hi> we may ſit ſtill by free conſent, gather Exciſe and Aſſeſſment, and all live Kings by Praliament <hi>ev'rlaſting.</hi> Pray here me though, quoth Baron <hi>Wild,</hi> Mr. <hi>Weavers</hi> Maid that ſeems with Child, I ſearch'd her and my ſhirt defoyl'd, <hi>'twas faſting:</hi> I ſent her then to Juſtice <hi>Lowder,</hi> leſt in her breech ſhee carried powder, and hee got her a place to ſhroud her, <hi>till layed.</hi> But if you take it for a plot, referre her caſe to Mr. <hi>Scot,</hi> leaſt the Houſe and Tower ſhould God-wot, <hi>betrayed.</hi> A generall feare ſurpriz'd them all, they doe like <hi>Babels builders</hi> call; who ſayes that <hi>Pride</hi> won't have a fall? <hi>deceive us:</hi> now they have rob'd us of our Gold, murther'd our King and his Goods ſold, they will 'tis thought run from their Hold, <hi>and leave us.</hi>
+            </p>
+            <epigraph>
+               <q>
+                  <l>Pray ſtop them not, give them free way to goo,</l>
+                  <l>The longer they ſtay here, the more's our woe.</l>
+               </q>
+            </epigraph>
+            <closer>
+               <signed>
+                  <hi>Mary Stiff,</hi> Cler. to the <hi>Houſe.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
